@@ -229,8 +229,17 @@ The Citus coordinator maintains metadata tables to track all of the cluster node
 
 .. _tenant_isolation:
 
+
+Tenant management
+=================
+
+Tenant monitoring
+-----------------
+
+Schema-based-sharding
+
 Tenant Isolation
-================
+----------------
 
 .. note::
 
